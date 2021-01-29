@@ -39,4 +39,4 @@ router.get('/SearchByCategory/:CategoryName',shopController.SearchByCategory);
 
 
 ```
->>>>>>> 08ebaa97dc2a4353fa87ee6a629cf408a407ca99
+
