@@ -1,22 +1,4 @@
 # Vonder-Assigment
-<<<<<<< HEAD
-
-/add_shelter post
-/delete_shelter/:id delete
-/shelters get
-
-
-/books get
-/books/:keyword get
-
-
-
-/add_book post
-/delete_book delete
-/edit_book put
-
-//not equal
-db.inventory.find( { qty: { $ne: 20 } } )
 =======
 ## API
 - /add_shelter post 
