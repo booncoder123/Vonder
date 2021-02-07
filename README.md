@@ -1,4 +1,4 @@
-![von](von.PNG)
+![von](von.png)
 # API
 
 ### Assignment for attending internship program with Vonder
